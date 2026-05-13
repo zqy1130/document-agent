@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pymupdf
+pdfplumber
+python-docx
+paddleocr
+paddlepaddle
+langchain
+langgraph
+openai
+numpy
+opencv-python
+Pillow
+chromadb
+neo4j
